@@ -1,0 +1,10 @@
+
+C:\Users\bca>d:
+
+D:\>cd Git122
+
+D:\Git122>git config --global user.name "crystalcasetools"
+
+D:\Git122>git config --global user.email crystalbarreto008@gmail.com
+
+D:\Git122>
